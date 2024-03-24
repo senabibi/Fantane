@@ -32,7 +32,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/senabibi/Fantane">
-    <img src="https://github.com/senabibi/Fantane/blob/master/logo.png" alt="Fantane Logo" width="500" height="300">
+    <img src="https://github.com/senabibi/Fantane/blob/master/logo3.png" alt="Fantane Logo" width="700" height="500">
   </a>
   <h3 align="center">Fantane</h3>
   <p align="center">
@@ -138,7 +138,7 @@ In the creatures folder, you'll find images of the magical creatures correspondi
 ### Prompts
 <!-- Displaying Creature Image -->
 <div align="center">
-  <img src="https://github.com/senabibi/Fantane/blob/master/creatures/1.png" alt="Creature Image" width="500">
+  <img src="https://github.com/senabibi/Fantane/blob/master/creatures/1.png" alt="Creature Image" width="500" height="500">
 </div>
 
 <!-- Prompt for Creature Information -->
@@ -147,26 +147,26 @@ In the creatures folder, you'll find images of the magical creatures correspondi
 <br>
 <!-- Displaying Creature Image and Prompt -->
 <div align="center">
-  <img src="https://github.com/senabibi/Fantane/blob/master/creatures/2.png" alt="Creature Image" width="500">
+  <img src="https://github.com/senabibi/Fantane/blob/master/creatures/2.png" alt="Creature Image" width="500" height="500">
   <p>Whiskers is a curious critter that explores its surroundings with its whiskers, always eager to discover new things.</p>
 </div>
 <br>
 <!-- Displaying Creature Image and Prompt -->
 <div align="center">
-  <img src="https://github.com/senabibi/Fantane/blob/master/creatures/3.png" alt="Creature Image" width="500">
+  <img src="https://github.com/senabibi/Fantane/blob/master/creatures/3.png" alt="Creature Image" width="500" height="500">
   <p>Bubbles is a cheerful character that spreads joy wherever it goes, leaving a trail of bubbles that brings smiles to everyone's faces.</p>
 </div>
 <br>
 <!-- Displaying Creature Image and Prompt -->
 <div align="center">
-  <img src="https://github.com/senabibi/Fantane/blob/master/creatures/4.png" alt="Creature Image" width="500">
+  <img src="https://github.com/senabibi/Fantane/blob/master/creatures/4.png" alt="Creature Image" width="500" height="500">
   <p>Snuggles is a lovable companion that enjoys cuddling with friends and spreading warmth with its gentle presence.</p>
 </div>
 
 <br>
 <!-- Displaying Creature Image and Prompt -->
 <div align="center">
-  <img src="https://github.com/senabibi/Fantane/blob/master/creatures/5.png" alt="Creature Image" width="500">
+  <img src="https://github.com/senabibi/Fantane/blob/master/creatures/5.png" alt="Creature Image" width="500" height="500">
   <p>Paws is an energetic critter that loves to play and explore, using its oversized paws to leap and bound through its surroundings.</p>
 </div>
 
@@ -373,6 +373,13 @@ In the creatures folder, you'll find images of the magical creatures correspondi
 </html>
 
 
+
+### Installation
+
+1. Clone the repository
+   ```sh
+   git clone https://github.com/senabibi/LibraryManagementSystem.git
+
 ### Installation
 
 _Below are the instructions for installing and setting up your library management system. Please make sure to follow each step carefully._
@@ -476,7 +483,7 @@ SOFTWARE.
 
 Your Name - [@senabibi](https://www.linkedin.com/in/nursena-bitirgen-5743341b9/) - bitirgensena@gmail.com
 
-Project Link: [https://github.com/senabibi/Fantane](https://github.com/senabibi/Fantane/tree/master)
+Project Link: [https://github.com/senabibi/LibraryManagementSysyem](https://github.com/senabibi/Fantane/tree/master)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -516,4 +523,3 @@ Use this space to list resources you find helpful and would like to give credit 
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/nursena-bitirgen-5743341b9/
-
