@@ -32,7 +32,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/senabibi/Fantane">
-    <img src="https://github.com/senabibi/Fantane/blob/master/logo.png/logo.png" alt="Fantane Logo" width="80" height="80">
+    <img src="https://github.com/senabibi/Fantane/blob/master/logo.png" alt="Fantane Logo" width="80" height="80">
   </a>
   <h3 align="center">Fantane</h3>
   <p align="center">
