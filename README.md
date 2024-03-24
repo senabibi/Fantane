@@ -32,7 +32,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/senabibi/Fantane">
-    <img src="https://github.com/senabibi/Fantane/logo.png" alt="Fantane Logo" width="80" height="80">
+    <img src="https://github.com/senabibi/Fantane/blob/master/logo.png" alt="Fantane Logo" width="500" height="300">
   </a>
   <h3 align="center">Fantane</h3>
   <p align="center">
@@ -138,7 +138,7 @@ In the creatures folder, you'll find images of the magical creatures correspondi
 ### Prompts
 <!-- Displaying Creature Image -->
 <div align="center">
-  <img src="creatures/1.png" alt="Creature Image" width="200">
+  <img src="https://github.com/senabibi/Fantane/blob/master/creatures/1.png" alt="Creature Image" width="500">
 </div>
 
 <!-- Prompt for Creature Information -->
@@ -147,35 +147,28 @@ In the creatures folder, you'll find images of the magical creatures correspondi
 <br>
 <!-- Displaying Creature Image and Prompt -->
 <div align="center">
-  <img src="creatures/2.png" alt="Creature Image" width="200">
+  <img src="https://github.com/senabibi/Fantane/blob/master/creatures/2.png" alt="Creature Image" width="500">
   <p>Whiskers is a curious critter that explores its surroundings with its whiskers, always eager to discover new things.</p>
 </div>
 <br>
 <!-- Displaying Creature Image and Prompt -->
 <div align="center">
-  <img src="creatures/3.png" alt="Creature Image" width="200">
+  <img src="https://github.com/senabibi/Fantane/blob/master/creatures/3.png" alt="Creature Image" width="500">
   <p>Bubbles is a cheerful character that spreads joy wherever it goes, leaving a trail of bubbles that brings smiles to everyone's faces.</p>
 </div>
 <br>
 <!-- Displaying Creature Image and Prompt -->
 <div align="center">
-  <img src="creatures/4.png" alt="Creature Image" width="200">
+  <img src="https://github.com/senabibi/Fantane/blob/master/creatures/4.png" alt="Creature Image" width="500">
   <p>Snuggles is a lovable companion that enjoys cuddling with friends and spreading warmth with its gentle presence.</p>
 </div>
 
 <br>
 <!-- Displaying Creature Image and Prompt -->
 <div align="center">
-  <img src="creatures/5.png" alt="Creature Image" width="200">
+  <img src="https://github.com/senabibi/Fantane/blob/master/creatures/5.png" alt="Creature Image" width="500">
   <p>Paws is an energetic critter that loves to play and explore, using its oversized paws to leap and bound through its surroundings.</p>
 </div>
-
-
-### Installation
-
-1. Clone the repository
-   ```sh
-   git clone https://github.com/senabibi/LibraryManagementSystem.git
 
 ### Installation
 
