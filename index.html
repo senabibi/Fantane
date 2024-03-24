@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FAGTANE Magical Creatures</title>
+    <link rel="icon" type="image/png" href="logo.png"/>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link href="style.css" rel="stylesheet">
+</head>
+<body>
+<div class="container mt-5">
+    <h1 class="text-center mb-4">FAGTANE Magical Creatures</h1>
+    <div id="creature-container" class="row">
+        <!-- Creatures will be loaded here by JavaScript -->
+    </div>
+    <nav aria-label="Creature pagination">
+        <ul class="pagination justify-content-center">
+            <li class="page-item"><a class="page-link" href="#" onclick="loadCreatures(1)">1</a></li>
+            <li class="page-item"><a class="page-link" href="#" onclick="loadCreatures(2)">2</a></li>
+            <li class="page-item"><a class="page-link" href="#" onclick="loadCreatures(3)">3</a></li>
+        </ul>
+    </nav>
+</div>
+<script src="index.js"></script>
+</body>
+</html>

@@ -1,0 +1,70 @@
+body {
+    background-color: #FADADD; /* Light pink background */
+    font-family: Arial, sans-serif; /* Professional font */
+    background-image: url("path/to/your/background-image.png"); /* Optional background pattern */
+    background-repeat: repeat; /* Repeat the pattern if using a background image */
+    background-size: contain; /* Adjust background size if using a background image */
+  }
+  
+  .navbar {
+    background-color: #fff; /* White navbar for better contrast */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  }
+  
+  .nav-link {
+    color: #333; /* Darker text for better readability */
+    transition: color 0.3s ease-in-out; /* Adjust transition speed */
+  }
+  
+  .nav-link:hover {
+    color: #C71585; /* Maintain hover color */
+  }
+  
+  .card-img-top {
+    border-radius: 15px; /* Soften image corners */
+    transition: transform 0.3s ease-in-out; /* Adjust transition speed */
+  }
+  
+  .card-img-top:hover {
+    transform: scale(1.05); /* Slightly enlarge images on hover */
+  }
+  
+  footer {
+    padding: 20px;
+    color: #333; /* Darker text for better readability */
+    font-size: 0.8em;
+  }
+  
+  /* Buttons (optional - adjust styles as needed) */
+  .btn {
+    border-radius: 50px; /* Rounded corners */
+    background-image: linear-gradient(to right, #F08080, #C71585); /* Gradient background */
+    color: #fff; /* White text */
+    padding: 10px 20px; /* Adjust padding as needed */
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .btn:hover {
+    background-image: linear-gradient(to right, #C71585, #F08080); /* Reverse gradient on hover */
+  }
+  
+  body, html {
+    height: 100%;
+    margin: 0;
+    background-color: #f0e8f0; /* Light background color */
+}
+
+.container-fluid, .row {
+    height: 100%;
+}
+
+.img-fluid {
+    max-height: 400px; /* Adjust based on your preference */
+    margin-bottom: 20px;
+}
+
+.btn-primary, .btn-success {
+    width: 100%; /* Full width buttons */
+    padding: 10px;
+    margin-top: 20px;
+}
