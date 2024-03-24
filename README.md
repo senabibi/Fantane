@@ -170,6 +170,209 @@ In the creatures folder, you'll find images of the magical creatures correspondi
   <p>Paws is an energetic critter that loves to play and explore, using its oversized paws to leap and bound through its surroundings.</p>
 </div>
 
+<title>Magic Creatures</title>
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+  }
+  th {
+    background-color: #f2f2f2;
+  }
+</style>
+</head>
+<body>
+
+<h2>Magic Creatures</h2>
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Element</th>
+    <th>Appearance</th>
+    <th>Personality</th>
+    <th>Abilities</th>
+    <th>Story</th>
+  </tr>
+  <tr>
+    <td>Fluffy</td>
+    <td>Pastel</td>
+    <td>Small, fluffy with big round eyes</td>
+    <td>Cuddly, soft, tiny wings on its back</td>
+    <td>Can create a calming aura around it</td>
+    <td>Fluffy is a gentle creature that brings comfort to those around it with its soft fur and soothing presence.</td>
+  </tr>
+  <tr>
+    <td>Whiskers</td>
+    <td>Gray</td>
+    <td>Chubby with long whiskers</td>
+    <td>Chubby, long tail that curls at the end</td>
+    <td>Can sense vibrations in the ground</td>
+    <td>Whiskers is a curious critter that explores its surroundings with its whiskers, always eager to discover new things.</td>
+  </tr>
+  <tr>
+    <td>Bubbles</td>
+    <td>Blue</td>
+    <td>Bright blue with large expressive eyes</td>
+    <td>Bubbly, constant trail of bubbles floating around</td>
+    <td>Can manipulate bubbles for various purposes</td>
+    <td>Bubbles is a cheerful character that spreads joy wherever it goes, leaving a trail of bubbles that brings smiles to everyone's faces.</td>
+  </tr>
+  <tr>
+    <td>Snuggles</td>
+    <td>White</td>
+    <td>Cuddly with heart-shaped nose</td>
+    <td>Soft, cuddly, long floppy ears</td>
+    <td>Can emit a warm, comforting aura</td>
+    <td>Snuggles is a lovable companion that enjoys cuddling with friends and spreading warmth with its gentle presence.</td>
+  </tr>
+  <tr>
+    <td>Paws</td>
+    <td>Multicolor</td>
+    <td>Playful with oversized paws</td>
+    <td>Playful, mischievous glint in its eyes</td>
+    <td>Enhanced agility and speed</td>
+    <td>Paws is an energetic critter that loves to play and explore, using its oversized paws to leap and bound through its surroundings.</td>
+  </tr>
+  <tr>
+    <td>Sunny</td>
+    <td>Yellow</td>
+    <td>Bright yellow with radiant smile</td>
+    <td>Radiant, sunny disposition</td>
+    <td>Can harness the power of sunlight</td>
+    <td>Sunny is a cheerful character that brightens up even the gloomiest of days, spreading warmth and happiness wherever it goes.</td>
+  </tr>
+  <tr>
+    <td>Glimmer</td>
+    <td>Shimmering</td>
+    <td>Covered in shimmering scales with iridescent wings</td>
+    <td>Shimmering, sparkling wings</td>
+    <td>Can manipulate light and create illusions</td>
+    <td>Glimmer is a magical being that enchants others with its shimmering appearance and dazzling displays of light.</td>
+  </tr>
+  <tr>
+    <td>Cotton</td>
+    <td>White</td>
+    <td>Fluffy as a cloud with sky-blue eyes</td>
+    <td>Pure white, gentle demeanor</td>
+    <td>Can create soft clouds for resting on</td>
+    <td>Cotton is a gentle soul that floats through the sky like a fluffy cloud, bringing comfort and tranquility wherever it goes.</td>
+  </tr>
+  <tr>
+    <td>Pebbles</td>
+    <td>Speckled</td>
+    <td>Speckled pattern resembling pebbles</td>
+    <td>Playful bounce, twinkle in its eye</td>
+    <td>Can blend into its surroundings</td>
+    <td>Pebbles is an adventurous character that enjoys hopping from place to place, its speckled fur camouflaging it in its environment.</td>
+  </tr>
+  <tr>
+    <td>Frost</td>
+    <td>Icy blue</td>
+    <td>Adorned in icy blue fur and sparkling crystals</td>
+    <td>Leaves a trail of frosty mist</td>
+    <td>Can lower temperatures and create ice structures</td>
+    <td>Frost is a chilly presence that brings a touch of frost wherever it goes, its sparkling crystals reflecting the light like a winter wonderland.</td>
+  </tr>
+  <tr>
+    <td>Twirl</td>
+    <td>Pastel</td>
+    <td>Fur a blend of pastel hues with colorful ribbons</td>
+    <td>Twirls its tail to leave a trail of colorful ribbons</td>
+    <td>Can manipulate ribbons for various purposes</td>
+    <td>Twirl is a whimsical character that dances through the air, leaving behind a trail of colorful ribbons that flutter and dance in the breeze.</td>
+  </tr>
+  <tr>
+    <td>Doodle</td>
+    <td>Colorful</td>
+    <td>Covered in doodles and scribbles with changing fur</td>
+    <td>Changes color with mood, leaves a trail of glitter</td>
+    <td>Can bring doodles to life and manipulate art supplies</td>
+    <td>Doodle is a creative creature that brings imagination to life, leaving behind a trail of sparkling doodles and vibrant colors.</td>
+  </tr>
+  <tr>
+    <td>Scooter</td>
+    <td>Yellow</td>
+    <td>Streak of bright yellow fur with sparks behind it</td>
+    <td>Fast as lightning</td>
+    <td>Enhanced speed and agility</td>
+    <td>Scooter is a speedster that zooms around with lightning-fast agility, leaving behind a trail of sparks that crackle and fizz with energy.</td>
+  </tr>
+  <tr>
+    <td>Puddle</td>
+    <td>Water</td>
+    <td>Made of water droplets with shimmering colors</td>
+    <td>Shimmers with iridescent colors</td>
+    <td>Can manipulate water and create rainbows</td>
+    <td>Puddle is a watery wonder that flows gracefully, leaving behind a trail of shimmering droplets that dance and sparkle in the sunlight.</td>
+</tr>
+<tr>
+    <td>Zigzag</td>
+    <td>Energetic</td>
+    <td>Swirling patterns on fur with lightning bolt tail</td>
+    <td>Full of energy and excitement</td>
+    <td>Can generate electrical charges and control lightning</td>
+    <td>Zigzag is a dynamic character that zips around with electrifying speed, leaving behind a trail of crackling energy and swirling patterns.</td>
+</tr>
+<tr>
+    <td>Scribbles</td>
+    <td>Colorful</td>
+    <td>Covered in colorful scribbles with expressive eyes</td>
+    <td>Expressive eyes, constant whirlwind of crayons</td>
+    <td>Can bring drawings to life and manipulate art supplies</td>
+    <td>Scribbles is an artistic soul that brings creativity to life, leaving behind a whirlwind of color and imagination wherever it goes.</td>
+</tr>
+<tr>
+    <td>Starlight</td>
+    <td>Twinkling</td>
+    <td>Twinkling coat like the night sky</td>
+    <td>Leaves a trail of stardust, eyes shine like galaxies</td>
+    <td>Can manipulate starlight and create illusions</td>
+    <td>Starlight is a celestial being that glimmers and shines like the night sky, leaving behind a trail of stardust that twinkles and sparkles in its wake.</td>
+</tr>
+<tr>
+    <td>Wiggle</td>
+    <td>Patchwork</td>
+    <td>Fur resembles a patchwork quilt, wiggles its tail</td>
+    <td>Wiggles its tail excitedly, leaves a trail of confetti</td>
+    <td>Can manipulate fabric and create playful illusions</td>
+    <td>Wiggle is a playful character that wiggles and dances with joy, leaving behind a trail of colorful confetti that fills the air with fun and excitement.</td>
+</tr>
+<tr>
+    <td>Sizzle</td>
+    <td>Fiery</td>
+    <td>Fiery red fur with flickering flames on its tail</td>
+    <td>Warm to the touch, leaves a trail of glowing embers</td>
+    <td>Can manipulate fire and generate heat</td>
+    <td>Sizzle is a warm and comforting presence that radiates heat and light, leaving behind a trail of glowing embers that flicker and dance in its wake.</td>
+</tr>
+<tr>
+    <td>Blossom</td>
+    <td>Floral</td>
+    <td>Covered in blooming flowers with sweet floral scent</td>
+    <td>Sweet floral scent, leaves a trail of petals</td>
+    <td>Can manipulate flowers and induce growth</td>
+    <td>Blossom is a fragrant delight that spreads the aroma of flowers wherever it goes, leaving behind a trail of petals that bloom in its wake.</td>
+</tr>
+<tr>
+    <td>Sprinkle</td>
+    <td>Sweet</td>
+    <td>Coat resembles colorful candies, leaves sugary trail</td>
+    <td>Leaves a trail of sugary sweetness</td>
+    <td>Can manipulate sugar and create confectionery illusions</td>
+    <td>Sprinkle is a sweet character that leaves behind a trail of sugary sweetness, spreading joy and delight wherever it goes.</td>
+</tr>
+</table>
+
+</body>
+</html>
+
+
 ### Installation
 
 _Below are the instructions for installing and setting up your library management system. Please make sure to follow each step carefully._
